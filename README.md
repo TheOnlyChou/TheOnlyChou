@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Alexandre CHOU-A-WEAN 👋
 
-<!--
-**TheOnlyChou/TheOnlyChou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student based in Paris, with a strong interest in cybersecurity, secure software design, and software engineering.  
+My main focus is on application security, systems security, and defensive engineering.
 
-Here are some ideas to get you started:
+I am also passionate about open source and currently seeking a 5-month internship in cybersecurity from November to March.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Application security
+- Systems security
+- Defensive engineering
+- Secure software design
+
+## Links
+[Portfolio](https://alexandre-chou.vercel.app) · [LinkedIn](https://www.linkedin.com/in/alexandre-chou) · [GitHub](https://github.com/TheOnlyChou)
